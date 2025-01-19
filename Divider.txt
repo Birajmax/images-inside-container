@@ -1,4 +1,0 @@
-Divider(
-                 endIndent: 120,
-                 color: Colors.red,
-               ),
